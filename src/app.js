@@ -34,13 +34,13 @@ app.get("", (request, response) => {
 
 app.get("/about", (request, response) => {
   response.render("about", {
-    title: "About Page",
+    title: "About Me",
     name: "Nakul Bageja"
   });
 });
 app.get("/help", (request, response) => {
   response.render("help", {
-    title: "Help Page",
+    title: "Help",
     name: "Nakul Bageja"
   });
 });

@@ -25,6 +25,10 @@ header {
   margin-bottom: 48px;
 }
 
+.portrait {
+  width: 250px;
+}
+
 h1 {
   font-size: 64px;
   margin-bottom: 16px;
