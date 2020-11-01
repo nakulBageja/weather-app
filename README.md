@@ -24,3 +24,5 @@
   heroku create "nakulbageja-weather-app"
   git push heroku master
 ```
+
+ ![](image_2020-11-01_195105.png)
