@@ -1,5 +1,7 @@
 # weather-app
 
+https://nakulbageja-weather-app.herokuapp.com
+
 ## THINGS TO DO BEFORE DEPLOYING
 
 - Add scripts in package.json
